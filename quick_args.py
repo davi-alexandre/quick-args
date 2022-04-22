@@ -1,7 +1,6 @@
-"""
-	Author: Davi Alexandre
-	Date: 10/2021
-"""
+#	Author: Davi Alexandre
+#	Date: 10/2021
+
 
 from sys import argv
 
