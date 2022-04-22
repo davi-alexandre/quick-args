@@ -23,10 +23,9 @@ if args.read_limit == 1: pass
 
 print(args)
 ```
-$ python example.py --no-equals --reprocess=True --read-limit=2
-
+```console
+foo@bar:~$ python example.py --no-equals --reprocess=True --read-limit=2
 no_equals: True
-
 reprocess: True
-
 read_limit: 2
+```
